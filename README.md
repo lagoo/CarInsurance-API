@@ -1,2 +1,2 @@
-# CarInsurance-API
-Exemple of API for calculate car insurance
+# CarInsurence-API
+Web-API for  save and calculate  car insurance.

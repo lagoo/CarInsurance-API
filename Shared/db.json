@@ -1,0 +1,8 @@
+{
+  "insured": [
+	  { "cpf": 111111111111, "name": "Iago Gibin Stanchese", "birthday": "01/09/1993" },
+	  { "cpf": 222222222222, "name": "Fernando Stanchese", "birthday": "15/11/1952" },
+	  { "cpf": 333333333333, "name": "Mariana Nogueira", "birthday": "03/07/1991" },
+	  { "cpf": 444444444444, "name": "Diego", "birthday": "01/09/1983" }
+  ]
+}
